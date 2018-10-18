@@ -23,3 +23,6 @@
 # Windows知识
  1. ## 系统命令
  + [黑客必学的六条系统命令](https://blog.csdn.net/qq_41350919/article/details/81060999)
+# 其他资源
+ + [Webstorm License Server](https://blog.csdn.net/dump_cong/article/details/80695943)
+ + [License Z](https://licensez.com/)
