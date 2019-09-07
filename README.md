@@ -30,6 +30,5 @@
 # 算法
  + [HMACSHA1加密算法](https://blog.csdn.net/z69183787/article/details/78393216)
 # 其他资源
- + [Webstorm License Server](https://blog.csdn.net/dump_cong/article/details/80695943){:target="_blank"}
+ + [Webstorm License Server](https://blog.csdn.net/dump_cong/article/details/80695943)
  + [License Z](https://licensez.com/)
- + <a href="http://www.baidu.com" target="_blank">百度一下</a>
