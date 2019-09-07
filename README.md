@@ -12,9 +12,13 @@
 # 编程语言
 1. ## SqlServer
 + [索引小结](https://www.cnblogs.com/lx823706/p/5531395.html)
+2. ## C#
++ [.NET官网API](https://docs.microsoft.com/zh-cn/dotnet/#pivot=docs&panel=getstarted)
 # 框架
  1. ## 框架知识
  + [ASP.NET MVC4 中整合 NHibernate3.3、Spring.NET2.0、ExtJS4](http://www.voidcn.com/article/p-zlqsyzyx-vu.html)
+ + [单点登录原理和简单实现](https://blog.csdn.net/u011277123/article/details/53404269)
+ + [API接口签名验证](https://www.jianshu.com/p/d47da77b6419)
  2. ## Extjs&&sencha touch
  + [sencha touch 入门系列 （八）sencha touch类系统讲解（下）](https://www.cnblogs.com/cjpx00008/p/3625583.html)
 # 前端知识
@@ -23,6 +27,9 @@
 # Windows知识
  1. ## 系统命令
  + [黑客必学的六条系统命令](https://blog.csdn.net/qq_41350919/article/details/81060999)
+# 算法
+ + [HMACSHA1加密算法](https://blog.csdn.net/z69183787/article/details/78393216)
 # 其他资源
- + [Webstorm License Server](https://blog.csdn.net/dump_cong/article/details/80695943)
+ + [Webstorm License Server](https://blog.csdn.net/dump_cong/article/details/80695943){:target="_blank"}
  + [License Z](https://licensez.com/)
+ + <a href="http://www.baidu.com" target="_blank">百度一下</a>
