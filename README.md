@@ -16,6 +16,8 @@
 ### SqlServer
 
 + [索引小结](https://www.cnblogs.com/lx823706/p/5531395.html)
++ [事物ACID](https://blog.csdn.net/dengjili/article/details/82468576)
++ [脏读、不可重复读和幻读](https://blog.csdn.net/qq_33591903/article/details/81672260)
 ### .Net
 
 #### .net资源
@@ -35,9 +37,14 @@
  + [ASP.NET MVC4 中整合 NHibernate3.3、Spring.NET2.0、ExtJS4](http://www.voidcn.com/article/p-zlqsyzyx-vu.html)
  + [单点登录原理和简单实现](https://blog.csdn.net/u011277123/article/details/53404269)
  + [API接口签名验证](https://www.jianshu.com/p/d47da77b6419)
+ + [什么是REST以及 RESTful?](https://www.jianshu.com/p/ee92c9accedd)
 ### Extjs&&sencha touch
 
  + [sencha touch 入门系列 （八）sencha touch类系统讲解（下）](https://www.cnblogs.com/cjpx00008/p/3625583.html)
+### spring-boot
+
++ [官网](https://spring.io/)
+
 ## 前端知识
 ### CSS学习
 
@@ -59,7 +66,23 @@
 
 + [Markdown在线编辑器 MdEditor](https://www.mdeditor.com/)
 
-  
+### 编辑器
 
++ [编辑器列举](https://blog.csdn.net/chen1415886044/article/details/104517137)
 
+### 博客搭建
+
++ [hexo官网](https://hexo.io/zh-cn/)
+
++ [一般技术大牛都在哪里写博客？](https://www.zhihu.com/question/22795144/answer/885356468)
++ [小吴的博客网站](https://www.cxyxiaowu.com/)
+
+### 抓包工具
+
++ [Fiddler使用](https://www.jianshu.com/p/e810f52fa71e)
+
+### other
+
++ [codepad前端样式](https://codepad.co/snippet/scroll-micro-animation-in-css)
++ [为什么要进行url编码](https://www.cnblogs.com/jerrysion/p/5522673.html)
 
